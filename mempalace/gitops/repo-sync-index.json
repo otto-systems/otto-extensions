@@ -1,6 +1,6 @@
 {
   "repo": "otto-extensions",
-  "syncedAt": "2026-07-03T15:18:09Z",
+  "syncedAt": "2026-07-03T16:00:14.258Z",
   "targetVersion": "0.2.1",
   "manifestConsistency": "validated",
   "schemaConsistency": "validated",
@@ -8,13 +8,13 @@
   "releasePrep": "completed",
   "commit": {
     "status": "committed",
-    "hash": "dfa9e7ed7507f5283f2ddaac8ed7e894300ee4e8",
-    "message": "sync index reconciled to current HEAD"
+    "hash": "88f8fb2c6e975f5ea50134a29cc221348fe5e874",
+    "message": "release 0.2.1 metadata aligned to current HEAD"
   },
   "push": {
     "status": "pushed"
   },
-  "updatedAt": "2026-07-03T15:54:38.261Z",
+  "updatedAt": "2026-07-03T16:00:14.258Z",
   "releaseVersion": "0.2.1",
   "releaseMetadata": {
     "channel": "stable",
