@@ -1,7 +1,7 @@
 {
   "id": "tracing.module",
   "name": "Tracing Module",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "entrypoint": "./index.js",
   "description": "Distributed tracing module with span exporters, propagation, and MemPalace persistence.",
   "permissions": [

@@ -1,7 +1,7 @@
 {
   "id": "example.module",
   "name": "Example Module",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "entrypoint": "./index.js",
   "description": "Sample Otto module for local development.",
   "permissions": [
