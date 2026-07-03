@@ -1,0 +1,66 @@
+wing: otto_extensions
+rooms:
+- name: modules
+  description: Files from modules/
+  keywords:
+  - modules
+  - modules
+- name: src
+  description: Files from src/
+  keywords:
+  - src
+  - src
+- name: logging_module
+  description: Files from modules/logging/
+  keywords:
+  - logging
+  - module
+  - sinks
+  - rotation
+- name: logging_records
+  description: Files from mempalace/logging/
+  keywords:
+  - logs
+  - schema
+  - events
+  - decisions
+- name: tracing_module
+  description: Files from modules/tracing/
+  keywords:
+  - tracing
+  - spans
+  - propagation
+  - exporters
+- name: tracing_records
+  description: Files from mempalace/tracing/
+  keywords:
+  - traces
+  - schema
+  - spans
+  - decisions
+- name: metrics_module
+  description: Files from modules/metrics/
+  keywords:
+  - metrics
+  - counters
+  - gauges
+  - histograms
+  - timers
+- name: metrics_records
+  description: Files from mempalace/metrics/
+  keywords:
+  - metrics
+  - schema
+  - events
+  - decisions
+- name: gitops
+  description: Cross-repo sync, versioning, manifests, commits, and releases
+  keywords:
+  - gitops
+  - sync
+  - version
+  - manifest
+  - release
+- name: general
+  description: Files that don't fit other rooms
+  keywords: []

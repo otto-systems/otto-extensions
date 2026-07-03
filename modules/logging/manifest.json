@@ -1,0 +1,13 @@
+{
+  "id": "logging.module",
+  "name": "Logging Module",
+  "version": "0.2.0",
+  "entrypoint": "./index.js",
+  "description": "Structured multi-sink logging module for Otto extensions.",
+  "permissions": [
+    "kernel:read",
+    "command:submit",
+    "network:write",
+    "filesystem:write"
+  ]
+}

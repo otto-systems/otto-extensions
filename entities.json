@@ -1,0 +1,14 @@
+{
+  "people": [],
+  "projects": [
+    "@otto/extensions"
+  ],
+  "topics": [
+    "logging",
+    "metrics",
+    "structured-events",
+    "correlation-id",
+    "log-rotation",
+    "mempalace"
+  ]
+}

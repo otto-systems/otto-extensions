@@ -1,0 +1,1 @@
+{"id":"seed-event-1","timestamp":"2026-07-03T00:00:00.000Z","level":"info","message":"logging mempalace seed event","correlationId":"seed-correlation","moduleId":"logging.module","metadata":{"seed":true}}

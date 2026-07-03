@@ -1,0 +1,11 @@
+{
+  "id": "example.module",
+  "name": "Example Module",
+  "version": "0.2.0",
+  "entrypoint": "./index.js",
+  "description": "Sample Otto module for local development.",
+  "permissions": [
+    "kernel:read",
+    "command:submit"
+  ]
+}

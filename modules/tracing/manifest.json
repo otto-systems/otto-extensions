@@ -1,0 +1,13 @@
+{
+  "id": "tracing.module",
+  "name": "Tracing Module",
+  "version": "0.2.0",
+  "entrypoint": "./index.js",
+  "description": "Distributed tracing module with span exporters, propagation, and MemPalace persistence.",
+  "permissions": [
+    "kernel:read",
+    "command:submit",
+    "network:write",
+    "filesystem:write"
+  ]
+}

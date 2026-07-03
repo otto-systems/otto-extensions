@@ -1,0 +1,12 @@
+{
+  "id": "metrics.module",
+  "name": "Metrics Module",
+  "version": "0.2.0",
+  "entrypoint": "./index.js",
+  "description": "Metrics module for counters, gauges, histograms, timers, and MemPalace persistence.",
+  "permissions": [
+    "kernel:read",
+    "command:submit",
+    "filesystem:write"
+  ]
+}
